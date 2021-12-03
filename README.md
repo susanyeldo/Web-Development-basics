@@ -1,3 +1,4 @@
-# HTML-Basics
-Donuts.
-My first HTML file using the basics only.
+# Web developement basics
+HTML
+CSS
+JAvascript
