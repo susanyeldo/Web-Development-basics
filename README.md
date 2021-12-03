@@ -1,2 +1,3 @@
 # HTML-Basics
-Donuts
+Donuts.
+My first HTML file using the basics only.
